@@ -1,0 +1,29 @@
+button{
+    cursor: pointer;
+    padding: 14px;
+    padding: 20px;
+    margin: 6px;
+    color: rgb(7, 7, 7);
+}
+div{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: black;  
+    color: aliceblue; 
+}
+button{
+    background-color: aqua;
+    border: 2px;
+    border-radius: 5px;
+}
+.oi{
+    padding: 8px;
+}
+.po{
+    color: red;
+    text-justify: inter-word;
+}
+body{
+    background-color: black;
+}
